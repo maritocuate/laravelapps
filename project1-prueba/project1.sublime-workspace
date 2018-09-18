@@ -1,0 +1,320 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"wra",
+				"flex-wrap"
+			],
+			[
+				"render",
+				"renderWindow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"row",
+				"row-reverse"
+			],
+			[
+				"dire",
+				"flex-direction"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"inn",
+				"innerWidth"
+			],
+			[
+				"gam",
+				"gameLoop"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/cursolaravel",
+		"/Applications/MAMP/htdocs/cursolaravel/project1-prueba"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/cursolaravel/project1-prueba/proyecto1-sublime",
+		"/Users/keellorenz/Desktop/cordovaApp/www/js/index.js",
+		"/Users/keellorenz/Downloads/video70/editar.php",
+		"/Users/keellorenz/Downloads/video70/index.php",
+		"/Users/keellorenz/Desktop/cordovaApp/www/index.html",
+		"/Users/keellorenz/Downloads/three test/index.html",
+		"/Users/keellorenz/Downloads/starwars-iv-intro/js/index.js",
+		"/Users/keellorenz/Downloads/starwars-iv-intro/css/style.css",
+		"/Users/keellorenz/Downloads/starwars-iv-intro/index.html",
+		"/Users/keellorenz/Downloads/simple-audio-visualisation/index.html",
+		"/Users/keellorenz/Downloads/draft-countdown/js/index.js",
+		"/Users/keellorenz/Downloads/draft-countdown/index.html",
+		"/Users/keellorenz/Downloads/parallax-scrolling/css/style.css",
+		"/Users/keellorenz/Downloads/parallax-scrolling/index.html",
+		"/Users/keellorenz/Desktop/mqaps/index.html",
+		"/Users/keellorenz/Downloads/parallax-scrolling/js/index.js",
+		"/Users/keellorenz/Downloads/draft-countdown/css/style.css",
+		"/Users/keellorenz/Downloads/simple-audio-visualisation/js/index.js",
+		"/Users/keellorenz/Downloads/simple-audio-visualisation/css/style.css",
+		"/Users/keellorenz/Desktop/haml/index.haml",
+		"/Users/keellorenz/Desktop/haml/index.html",
+		"/Users/keellorenz/Desktop/haml/script.js",
+		"/Users/keellorenz/Desktop/index.html",
+		"/Users/keellorenz/desarrolladorFrontEnd-2735/Clase 04/Desafio.md",
+		"/Users/keellorenz/Documents/github/students-app/Ejercicio.txt",
+		"/Users/keellorenz/Documents/github/reactdemo/src/App.js",
+		"/Users/keellorenz/Documents/github/three.js/app.js",
+		"/Users/keellorenz/Desktop/app.js",
+		"/Users/keellorenz/Desktop/three.html",
+		"/Users/keellorenz/Documents/desarrollador-full-stack/clases/clase15/script.md",
+		"/Users/keellorenz/Documents/desarrollador-full-stack/clases/clase05/script.md",
+		"/Users/keellorenz/Documents/desarrollador-full-stack/clases/clase14/script.md",
+		"/Users/keellorenz/Documents/github/es6/maps.js",
+		"/Users/keellorenz/Documents/github/students-app/src/StudentsList/StudentsList.js",
+		"/Users/keellorenz/Desktop/Ejercicio.txt",
+		"/Users/keellorenz/CoderHouse-FrontEnd/Clase 1 - ES6/ejercicios.js",
+		"/Users/keellorenz/Downloads/CoderHouse-FrontEnd-master/Clase 1 - ES6/ejercicios.js",
+		"/Users/keellorenz/Desktop/arrays.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"color: ",
+			"white",
+			"fff",
+			"color:",
+			"audio",
+			"sketch",
+			"sketch.create",
+			".create",
+			"create",
+			"css",
+			"\n\t\t\tflex: 0 0 100%;",
+			"color",
+			"<div id=\"renderWindow\"></div>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 369.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
