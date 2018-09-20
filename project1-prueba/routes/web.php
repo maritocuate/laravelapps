@@ -26,3 +26,24 @@ Route::get('/contacto/{nombre?}', function($nombre = 'marito'){
 })->where([
 	'nombre' => '[A-Za-z]'
 ]);
+
+
+
+Route::group(['prefix' => 'fruteria'], function(){
+	Route::get('/frutas', 'FrutasController@index');
+	Route::get('/naranjas/{admin?}', [ 'middleware' => 'EsAdmin',
+									   'uses' => 'FrutasController@getNaranjas',
+									   'as' => 'naranjitas'
+									  ]);
+	Route::get('/peras', 'FrutasController@getPeras');
+});
+
+Route::post('/recibir', 'FrutasController@recibirFormulario');
+
+
+
+
+
+
+
+
